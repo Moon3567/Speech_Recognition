@@ -14,7 +14,7 @@ The rules of the game are:
 </p>
 
 <p align="center">
-  <img width="450" height="500" src="https://user-images.githubusercontent.com/77875811/234520134-2e9e7582-e748-48d2-b112-353136843cb6.png">
+  <img width="400" height="500" src="https://user-images.githubusercontent.com/77875811/234520134-2e9e7582-e748-48d2-b112-353136843cb6.png">
 </p>
 
 
